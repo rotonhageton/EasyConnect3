@@ -1,0 +1,13 @@
+C:\Users\Krystian\source\repos\EasyConnect\EasyConnect\bin\Debug\EasyConnect.exe.config
+C:\Users\Krystian\source\repos\EasyConnect\EasyConnect\bin\Debug\EasyConnect.exe
+C:\Users\Krystian\source\repos\EasyConnect\EasyConnect\bin\Debug\EasyConnect.pdb
+C:\Users\Krystian\source\repos\EasyConnect\EasyConnect\obj\Debug\EasyConnect.csprojAssemblyReference.cache
+C:\Users\Krystian\source\repos\EasyConnect\EasyConnect\obj\Debug\EasyConnect.EasyConnect.resources
+C:\Users\Krystian\source\repos\EasyConnect\EasyConnect\obj\Debug\EasyConnect.Properties.Resources.resources
+C:\Users\Krystian\source\repos\EasyConnect\EasyConnect\obj\Debug\EasyConnect.csproj.GenerateResource.cache
+C:\Users\Krystian\source\repos\EasyConnect\EasyConnect\obj\Debug\EasyConnect.csproj.CoreCompileInputs.cache
+C:\Users\Krystian\source\repos\EasyConnect\EasyConnect\obj\Debug\EasyConnect.exe
+C:\Users\Krystian\source\repos\EasyConnect\EasyConnect\obj\Debug\EasyConnect.pdb
+C:\Users\Krystian\source\repos\EasyConnect\EasyConnect\obj\Debug\EasyConnect.csproj.CopyComplete
+C:\Users\Krystian\source\repos\EasyConnect\EasyConnect\bin\Debug\nunit.framework.dll
+C:\Users\Krystian\source\repos\EasyConnect\EasyConnect\bin\Debug\nunit.framework.xml
